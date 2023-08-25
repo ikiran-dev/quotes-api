@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+}
+
+.heading {
+  margin-top: 30px;
+  font-weight: bolder;
+  font-size: 40px;
+}
+.quote {
+  margin-top: 200px;
+  font-size: 60px;
+}
+
+.loading {
+  margin-top: 200px;
+  font-size: 60px;
+  color: rgba(255, 255, 255, 0.3);
+}
